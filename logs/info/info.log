@@ -1,0 +1,180 @@
+[DEBUG] 2018-06-20 15:28:15 --> 运行Spring-Generator... --> Main.java:61 
+
+[DEBUG] 2018-06-20 15:28:15 --> 执行创建模板... --> TemplateUtil.java:36 
+
+[DEBUG] 2018-06-20 15:28:16 --> 初始化首页... --> IndexController.java:304 
+
+[DEBUG] 2018-06-20 15:28:16 --> 初始化首页成功! --> IndexController.java:343 
+
+[DEBUG] 2018-06-20 15:28:16 --> 加载左侧数据库树与事件.... --> IndexController.java:585 
+
+[DEBUG] 2018-06-20 15:28:16 --> 加载所有数据库到左侧树集成功! --> IndexController.java:348 
+
+[DEBUG] 2018-06-20 15:28:16 --> 执行查询默认配置信息并加载到首页... --> IndexController.java:355 
+
+[DEBUG] 2018-06-20 15:28:16 --> 执行加载模板文件夹里面所有模板的名字... --> IndexController.java:758 
+
+[DEBUG] 2018-06-20 15:28:16 --> 执行加载模板文件夹里面所有模板的名字-->成功! --> IndexController.java:765 
+
+[DEBUG] 2018-06-20 15:28:16 --> 加载配置信息到首页成功! --> IndexController.java:359 
+
+[DEBUG] 2018-06-20 15:28:20 --> 初始化数据库连接窗口.... --> ConnectionController.java:86 
+
+[DEBUG] 2018-06-20 15:28:20 --> 初始化数据库连接成功! --> ConnectionController.java:103 
+
+[DEBUG] 2018-06-20 15:29:19 --> 执行测试数据库连接... --> ConnectionController.java:170 
+
+[DEBUG] 2018-06-20 15:29:20 --> 数据库测试连接成功! --> ConnectionController.java:179 
+
+[DEBUG] 2018-06-20 15:29:23 --> 执行保存数据库连接... --> ConnectionController.java:137 
+
+[DEBUG] 2018-06-20 15:29:23 --> 保存数据库连接成功! --> ConnectionController.java:147 
+
+[DEBUG] 2018-06-20 15:29:25 --> 加载所有表.... --> IndexController.java:685 
+
+[DEBUG] 2018-06-20 15:29:26 --> 加载所有表成功! --> IndexController.java:703 
+
+[DEBUG] 2018-06-20 15:29:48 --> 初始化SetCustomConterller... --> SetCustomController.java:161 
+
+[DEBUG] 2018-06-20 15:29:48 --> 初始化SetCustomConterller->初始化属性... --> SetCustomController.java:162 
+
+[DEBUG] 2018-06-20 15:29:48 --> 初始化SetCustomConterller->初始化模板文件名选择... --> SetCustomController.java:202 
+
+[DEBUG] 2018-06-20 15:29:48 --> 初始化SetCustomConterller->初始化配置信息... --> SetCustomController.java:203 
+
+[DEBUG] 2018-06-20 15:29:48 --> 执行从数据库中获取配置文件... --> SetCustomController.java:258 
+
+[DEBUG] 2018-06-20 15:29:48 --> 执行获取配置文件-->成功! --> SetCustomController.java:261 
+
+[DEBUG] 2018-06-20 15:29:48 --> 执行加载配置文件到当前页面... --> SetCustomController.java:291 
+
+[DEBUG] 2018-06-20 15:29:48 --> 执行加载配置文件到当前页面->成功! --> SetCustomController.java:306 
+
+[DEBUG] 2018-06-20 15:29:48 --> 初始化SetCustomConterller-->成功! --> SetCustomController.java:218 
+
+[DEBUG] 2018-06-20 15:30:42 --> 选择文件项目目录:E:\工作文件 --> IndexController.java:1275 
+
+[DEBUG] 2018-06-20 15:31:05 --> 将表的数据加载到数据面板... --> IndexController.java:709 
+
+[DEBUG] 2018-06-20 15:31:05 --> 将表的数据加载到数据面板成功! --> IndexController.java:722 
+
+[DEBUG] 2018-06-20 15:31:34 --> 初始化SetCustomConterller... --> SetCustomController.java:161 
+
+[DEBUG] 2018-06-20 15:31:34 --> 初始化SetCustomConterller->初始化属性... --> SetCustomController.java:162 
+
+[DEBUG] 2018-06-20 15:31:34 --> 初始化SetCustomConterller->初始化模板文件名选择... --> SetCustomController.java:202 
+
+[DEBUG] 2018-06-20 15:31:34 --> 初始化SetCustomConterller->初始化配置信息... --> SetCustomController.java:203 
+
+[DEBUG] 2018-06-20 15:31:34 --> 执行从数据库中获取配置文件... --> SetCustomController.java:258 
+
+[DEBUG] 2018-06-20 15:31:34 --> 执行获取配置文件-->成功! --> SetCustomController.java:261 
+
+[DEBUG] 2018-06-20 15:31:34 --> 执行加载配置文件到当前页面... --> SetCustomController.java:291 
+
+[DEBUG] 2018-06-20 15:31:34 --> 执行加载配置文件到当前页面->成功! --> SetCustomController.java:306 
+
+[DEBUG] 2018-06-20 15:31:34 --> 初始化SetCustomConterller-->成功! --> SetCustomController.java:218 
+
+[DEBUG] 2018-06-20 15:32:42 --> 执行创建... --> IndexController.java:1012 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "Entity.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Entity_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Entity_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Entity.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "Entity.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\Entity.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> 执行生成实体类-->成功! --> IndexController.java:1044 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "Service.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Service_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Service_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Service.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "Service.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\Service.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> 执行生成Service-->成功! --> IndexController.java:1058 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "ServiceImpl.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("ServiceImpl_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("ServiceImpl_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("ServiceImpl.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "ServiceImpl.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\ServiceImpl.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> 执行生成ServiceImpl-->成功! --> IndexController.java:1072 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "Dao.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Dao_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Dao_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Dao.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "Dao.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\Dao.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> 执行生成DAO-->成功! --> IndexController.java:1086 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "Controller.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Controller_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Controller_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("Controller.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "Controller.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\Controller.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> 执行生成Controller-->成功! --> IndexController.java:1100 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "UnitTest.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("UnitTest_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("UnitTest_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("UnitTest.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "UnitTest.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\UnitTest.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> 执行生成单元测试-->成功! --> IndexController.java:1114 
+
+[DEBUG] 2018-06-20 15:32:43 --> Couldn't find template in cache for "SqlAssist.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("SqlAssist_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("SqlAssist_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> TemplateLoader.findTemplateSource("SqlAssist.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:43 --> Loading template for "SqlAssist.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\SqlAssist.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:44 --> 执行生成SqlAssist-->成功! --> IndexController.java:1128 
+
+[DEBUG] 2018-06-20 15:32:44 --> Couldn't find template in cache for "MySQLMapper.ftl"("zh_CN", utf-8, parsed); will try to load it. --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:44 --> TemplateLoader.findTemplateSource("MySQLMapper_zh_CN.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:44 --> TemplateLoader.findTemplateSource("MySQLMapper_zh.ftl"): Not found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:44 --> TemplateLoader.findTemplateSource("MySQLMapper.ftl"): Found --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:44 --> Loading template for "MySQLMapper.ftl"("zh_CN", utf-8, parsed) from "E:\\git\\Spring-generator\\template\\MySQLMapper.ftl" --> _Log4jLoggerFactory.java:45 
+
+[DEBUG] 2018-06-20 15:32:44 --> 执行生成Mapper-->成功! --> IndexController.java:1146 
+
+[DEBUG] 2018-06-20 15:32:44 --> 执行创建-->成功! --> IndexController.java:1170 
+
+[DEBUG] 2018-06-20 15:35:00 --> 关闭Spring-Generator!!! --> Main.java:63 
+
